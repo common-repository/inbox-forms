@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: INBOX Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 20:46+0000\n"
+"PO-Revision-Date: 2021-06-17 13:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: inbox"
+
+#: ../src/RegisterScripts.php:76 ../src/RegisterScripts.php:80
+#, php-format
+msgid "%s You currently have no form created. Please create one first. %s "
+msgstr ""
+"%s Şu anda herhangi bir form oluşturmadınız. Lütfen önce bir tane oluşturun. "
+"%s"
+
+#: ../src/Admin/FormsList.php:176
+msgid "Actions"
+msgstr "İşlemler"
+
+#: ../templates/admin/forms_add_new.php:61 ../templates/admin/forms_edit.php:66
+msgid "Active?"
+msgstr "Aktif?"
+
+#: ../templates/admin/forms_add_new.php:123
+#: ../templates/admin/forms_add_new.php:139
+#: ../templates/admin/forms_edit.php:151
+msgid "Add"
+msgstr "Ekle"
+
+#: ../templates/admin/forms.php:9
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: ../templates/admin/forms_add_new.php:22
+msgid "Add New Form"
+msgstr "Yeni Form Ekle"
+
+#: ../src/RegisterScripts.php:191
+msgid "All Selected"
+msgstr "Hepsi Seçildi"
+
+#: ../templates/admin/settings.php:20
+msgid "API"
+msgstr "API"
+
+#: ../src/RegisterScripts.php:183
+msgid "Are you sure want to do this? Clicking OK will delete all your records."
+msgstr ""
+"Bunu yapmak istediğinizi emin misininiz? Tamam'ı tıkladığınızda tüm "
+"kayıtlarınız silinir."
+
+#: ../src/RegisterScripts.php:182
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+#: ../templates/admin/forms_add_new.php:96
+#: ../templates/admin/forms_edit.php:101
+msgid "Auto Popup Rules"
+msgstr "Auto Popup Kuralları"
+
+#: ../templates/admin/forms_add_new.php:8 ../templates/admin/forms_edit.php:8
+msgid "Back to Overview"
+msgstr "Genel Bakışa Geri Dön"
+
+#: ../src/RegisterScripts.php:187
+msgid "Choose..."
+msgstr "Seçiniz..."
+
+#: ../src/Repositories/FormRepository.php:49
+msgid "Contains"
+msgstr "İçerir"
+
+#: ../src/Admin/FormsList.php:137 ../src/Admin/FormsList.php:159
+msgid "Delete"
+msgstr "Sil"
+
+#: ../templates/admin/header.php:9
+msgid "Documentation"
+msgstr "Dokümantasyon"
+
+#: ../src/RegisterScripts.php:186
+msgid "E-mail address is incorrect, please try again."
+msgstr "E-posta adresi yanlış, lütfen tekrar deneyin."
+
+#: ../src/Admin/FormsList.php:136 ../src/Admin/FormsList.php:153
+#: ../templates/admin/forms_edit.php:167
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../templates/admin/forms_edit.php:22
+msgid "Edit Form"
+msgstr "Formu Düzenle"
+
+#: ../templates/admin/settings.php:28
+msgid "Enter API Key"
+msgstr "API Key Girin"
+
+#: ../src/Repositories/FormRepository.php:52
+msgid "Equals"
+msgstr "Eşittir"
+
+#: ../src/Admin/FormsList.php:27
+msgid "form"
+msgstr "form"
+
+#: ../src/Admin/Forms.php:146
+msgid "Form could not be created."
+msgstr "Form oluşturulamadı."
+
+#: ../src/Admin/Forms.php:236
+msgid "Form could not be updated."
+msgstr "Form güncellenemedi."
+
+#: ../src/Admin/Forms.php:111 ../src/Admin/Forms.php:201
+msgid "Form is required."
+msgstr "Form gerekli."
+
+#: ../templates/admin/forms_add_new.php:30 ../templates/admin/forms_edit.php:35
+msgid "Form Name"
+msgstr "Form Adı"
+
+#: ../src/Admin/Forms.php:103 ../src/Admin/Forms.php:193
+msgid "Form name field is required."
+msgstr "Form adı alanı gerekli."
+
+#: ../src/Admin/FormsList.php:175 ../templates/admin/forms_add_new.php:50
+#: ../templates/admin/forms_edit.php:55
+msgid "Form Type"
+msgstr "Form Tipi"
+
+#: ../src/Admin/Forms.php:109 ../src/Admin/Forms.php:199
+msgid "Form type is required."
+msgstr "Form tipi gerekli."
+
+#: ../src/Admin/Forms.php:105 ../src/Admin/Forms.php:195
+msgid "Form with similar name exist already."
+msgstr "Aynı isimde başka bir form mevcut."
+
+#: ../src/Admin/Forms.php:40 ../templates/admin/forms.php:8
+#: ../templates/admin/forms_add_new.php:7 ../templates/admin/forms_edit.php:7
+msgid "Forms"
+msgstr "Formlar"
+
+#: ../src/Admin/FormsList.php:28
+msgid "forms"
+msgstr "formlar"
+
+#: ../src/Admin/Forms.php:39
+msgid "Forms - INBOX"
+msgstr "Formlar - INBOX"
+
+#: ../templates/admin/sidebar.php:11
+msgid ""
+"Have any questions? Stuck on something or found bug? Feel free to contact us!"
+msgstr ""
+"Sorularınız mı var? Bir şeye mi takıldınız veya hata mı buldunuz? Bizimle "
+"iletişime geçmeye çekinmeyin!"
+
+#: ../src/Admin/Forms.php:115 ../src/Admin/Forms.php:205
+msgid "Inbox form is not found."
+msgstr "Inbox formu bulunamadı."
+
+#: ../src/Repositories/FormRepository.php:31
+msgid "Inline Form"
+msgstr "Inline Form"
+
+#: ../templates/admin/settings.php:35
+#, php-format
+msgid "Log in to your %s INBOX account %s to get your API Key."
+msgstr "API anahtarını almak için %s INBOX hesabınıza %s giriş yapın."
+
+#: ../src/Admin/FormsList.php:174
+msgid "Name"
+msgstr "İsim"
+
+#: ../src/Admin/FormsList.php:115
+#, php-format
+msgid "No forms found. %sConsider creating one%s"
+msgstr "Form bulunamadı. Bir tane oluşturmayı düşünebilirsiniz."
+
+#: ../src/Repositories/FormRepository.php:55
+msgid "Not Contains"
+msgstr "İçermez"
+
+#: ../src/Repositories/FormRepository.php:58
+msgid "Not Equals"
+msgstr "Eşit Değil"
+
+#: ../templates/admin/forms_add_new.php:112
+#: ../templates/admin/forms_edit.php:119 ../templates/admin/forms_edit.php:139
+msgid "Path"
+msgstr "Yol"
+
+#: ../src/Repositories/FormRepository.php:28
+msgid "Popup Form"
+msgstr "Popup Form"
+
+#: ../templates/admin/forms_add_new.php:78 ../templates/admin/forms_edit.php:83
+msgid "Popup Selector"
+msgstr "Popup Selector"
+
+#: ../templates/admin/forms_add_new.php:87 ../templates/admin/forms_edit.php:92
+msgid "Popup Show Days"
+msgstr "Popup Gösterim Günleri"
+
+#: ../templates/admin/forms_add_new.php:69 ../templates/admin/forms_edit.php:74
+msgid "Popup Timeout"
+msgstr "Popup Bekleme Süresi"
+
+#: ../templates/admin/forms_add_new.php:116
+#: ../templates/admin/forms_edit.php:123 ../templates/admin/forms_edit.php:143
+msgid "Remove"
+msgstr "Kaldır"
+
+#: ../templates/admin/forms_add_new.php:103
+#: ../templates/admin/forms_edit.php:110 ../templates/admin/forms_edit.php:132
+msgid "Rule"
+msgstr "Kural"
+
+#: ../src/Admin/Forms.php:124 ../src/Admin/Forms.php:214
+msgid "Rule field is required."
+msgstr "Kural alanı gereklidir."
+
+#: ../templates/admin/settings.php:42
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: ../src/RegisterScripts.php:185
+msgid "Security code is incorrect, please try again."
+msgstr "Güvenlik kodu yanlış, lütfen tekrar deneyin."
+
+#: ../src/RegisterScripts.php:188
+msgid "Select all..."
+msgstr "Tümünü seç..."
+
+#: ../src/Admin/FormWidget.php:66
+msgid "Select form:"
+msgstr "Form seçiniz:"
+
+#: ../src/Admin/FormWidget.php:69
+msgid "Select..."
+msgstr "Seçiniz..."
+
+#: ../src/RegisterScripts.php:190
+msgid "Selected"
+msgstr "Seçildi"
+
+#: ../src/Admin/Settings.php:30 ../templates/admin/settings.php:6
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: ../src/Admin/Settings.php:29
+msgid "Settings - INBOX"
+msgstr "Ayarlar - INBOX"
+
+#: ../src/RegisterScripts.php:184
+msgid "This field cannot be left blank."
+msgstr "Bu alan boş bırakılamaz."
+
+#: ../src/RegisterScripts.php:189
+msgid "Type to filter..."
+msgstr "Filtrelemek için yazın..."
+
+#: ../src/RegisterScripts.php:181
+msgid "Type to search"
+msgstr "Aramak için yazın"
+
+#: ../templates/admin/forms_edit.php:28
+#, php-format
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text widget."
+msgstr ""
+"Bu formu bir gönderi, sayfa veya metin aracı içinde görüntülemek için %s "
+"kısa kodunu kullanın."
+
+#: ../templates/admin/forms_add_new.php:73 ../templates/admin/forms_edit.php:78
+msgid ""
+"Wait time before showing popup in milliseconds. For example, you can write "
+"5000 milliseconds for 5 seconds."
+msgstr ""
+"Milisaniye cinsinden açılır pencereyi göstermeden önceki bekleme süresi. "
+"Örneğin 5 saniye için 5000 milisaniye yazabilirsiniz."
+
+#: ../templates/admin/forms_add_new.php:126
+#: ../templates/admin/forms_edit.php:154
+msgid "You can add a rule if you want show popup on pages that match the rule."
+msgstr ""
+"Kuralla eşleşen sayfalarda popup gösterilmesini istiyorsanız kural "
+"ekleyebilirsiniz."
+
+#: ../templates/admin/forms_add_new.php:91 ../templates/admin/forms_edit.php:96
+msgid "You can fill this if you want show popup once a every specified days."
+msgstr ""
+"Açılır pencereyi her belirtilen günde bir kez göstermek istiyorsanız bunu "
+"doldurabilirsiniz."
+
+#: ../templates/admin/forms_add_new.php:82 ../templates/admin/forms_edit.php:87
+msgid ""
+"You can fill this if you want show popup when click to selector. Selector "
+"must be valid javascript dom selector."
+msgstr ""
+"Seçiciye tıkladığınızda açılır pencerenin gösterilmesini istiyorsanız bunu "
+"doldurabilirsiniz. Seçici geçerli bir javascript alan seçici olmalıdır."

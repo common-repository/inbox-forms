@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: INBOX Forms\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-13 20:46+0000\n"
+"PO-Revision-Date: 2021-06-17 13:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: inbox\n"
+
+#: ../src/RegisterScripts.php:76 ../src/RegisterScripts.php:80
+#, php-format
+msgid "%s You currently have no form created. Please create one first. %s "
+msgstr "%s You currently have no form created. Please create one first. %s "
+
+#: ../src/Admin/FormsList.php:176
+msgid "Actions"
+msgstr "Actions"
+
+#: ../templates/admin/forms_add_new.php:61 ../templates/admin/forms_edit.php:66
+msgid "Active?"
+msgstr "Active?"
+
+#: ../templates/admin/forms_add_new.php:123
+#: ../templates/admin/forms_add_new.php:139
+#: ../templates/admin/forms_edit.php:151
+msgid "Add"
+msgstr "Add"
+
+#: ../templates/admin/forms.php:9
+msgid "Add New"
+msgstr "Add New"
+
+#: ../templates/admin/forms_add_new.php:22
+msgid "Add New Form"
+msgstr "Add New Form"
+
+#: ../src/RegisterScripts.php:191
+msgid "All Selected"
+msgstr "All Selected"
+
+#: ../templates/admin/settings.php:20
+msgid "API"
+msgstr "API"
+
+#: ../src/RegisterScripts.php:183
+msgid "Are you sure want to do this? Clicking OK will delete all your records."
+msgstr ""
+"Are you sure want to do this? Clicking OK will delete all your records."
+
+#: ../src/RegisterScripts.php:182
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: ../templates/admin/forms_add_new.php:96
+#: ../templates/admin/forms_edit.php:101
+msgid "Auto Popup Rules"
+msgstr "Auto Popup Rules"
+
+#: ../templates/admin/forms_add_new.php:8 ../templates/admin/forms_edit.php:8
+msgid "Back to Overview"
+msgstr "Back to Overview"
+
+#: ../src/RegisterScripts.php:187
+msgid "Choose..."
+msgstr "Choose..."
+
+#: ../src/Repositories/FormRepository.php:49
+msgid "Contains"
+msgstr "Contains"
+
+#: ../src/Admin/FormsList.php:137 ../src/Admin/FormsList.php:159
+msgid "Delete"
+msgstr "Delete"
+
+#: ../templates/admin/header.php:9
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../src/RegisterScripts.php:186
+msgid "E-mail address is incorrect, please try again."
+msgstr "E-mail address is incorrect, please try again."
+
+#: ../src/Admin/FormsList.php:136 ../src/Admin/FormsList.php:153
+#: ../templates/admin/forms_edit.php:167
+msgid "Edit"
+msgstr "Edit"
+
+#: ../templates/admin/forms_edit.php:22
+msgid "Edit Form"
+msgstr "Edit Form"
+
+#: ../templates/admin/settings.php:28
+msgid "Enter API Key"
+msgstr "Enter API Key"
+
+#: ../src/Repositories/FormRepository.php:52
+msgid "Equals"
+msgstr "Equals"
+
+#: ../src/Admin/FormsList.php:27
+msgid "form"
+msgstr "form"
+
+#: ../src/Admin/Forms.php:146
+msgid "Form could not be created."
+msgstr "Form could not be created."
+
+#: ../src/Admin/Forms.php:236
+msgid "Form could not be updated."
+msgstr "Form could not be updated."
+
+#: ../src/Admin/Forms.php:111 ../src/Admin/Forms.php:201
+msgid "Form is required."
+msgstr "Form is required."
+
+#: ../templates/admin/forms_add_new.php:30 ../templates/admin/forms_edit.php:35
+msgid "Form Name"
+msgstr "Form Name"
+
+#: ../src/Admin/Forms.php:103 ../src/Admin/Forms.php:193
+msgid "Form name field is required."
+msgstr "Form name field is required."
+
+#: ../src/Admin/FormsList.php:175 ../templates/admin/forms_add_new.php:50
+#: ../templates/admin/forms_edit.php:55
+msgid "Form Type"
+msgstr "Form Type"
+
+#: ../src/Admin/Forms.php:109 ../src/Admin/Forms.php:199
+msgid "Form type is required."
+msgstr "Form type is required."
+
+#: ../src/Admin/Forms.php:105 ../src/Admin/Forms.php:195
+msgid "Form with similar name exist already."
+msgstr "Form with similar name exist already."
+
+#: ../src/Admin/Forms.php:40 ../templates/admin/forms.php:8
+#: ../templates/admin/forms_add_new.php:7 ../templates/admin/forms_edit.php:7
+msgid "Forms"
+msgstr "Forms"
+
+#: ../src/Admin/FormsList.php:28
+msgid "forms"
+msgstr "forms"
+
+#: ../src/Admin/Forms.php:39
+msgid "Forms - INBOX"
+msgstr "Forms - INBOX"
+
+#: ../templates/admin/sidebar.php:11
+msgid ""
+"Have any questions? Stuck on something or found bug? Feel free to contact us!"
+msgstr ""
+"Have any questions? Stuck on something or found bug? Feel free to contact us!"
+
+#: ../src/Admin/Forms.php:115 ../src/Admin/Forms.php:205
+msgid "Inbox form is not found."
+msgstr "Inbox form is not found."
+
+#: ../src/Repositories/FormRepository.php:31
+msgid "Inline Form"
+msgstr "Inline Form"
+
+#: ../templates/admin/settings.php:35
+#, php-format
+msgid "Log in to your %s INBOX account %s to get your API Key."
+msgstr "Log in to your %s INBOX account %s to get your API Key."
+
+#: ../src/Admin/FormsList.php:174
+msgid "Name"
+msgstr "Name"
+
+#: ../src/Admin/FormsList.php:115
+#, php-format
+msgid "No forms found. %sConsider creating one%s"
+msgstr "No forms found. %sConsider creating one%s"
+
+#: ../src/Repositories/FormRepository.php:55
+msgid "Not Contains"
+msgstr "Not Contains"
+
+#: ../src/Repositories/FormRepository.php:58
+msgid "Not Equals"
+msgstr "Not Equals"
+
+#: ../templates/admin/forms_add_new.php:112
+#: ../templates/admin/forms_edit.php:119 ../templates/admin/forms_edit.php:139
+msgid "Path"
+msgstr "Path"
+
+#: ../src/Repositories/FormRepository.php:28
+msgid "Popup Form"
+msgstr "Popup Form"
+
+#: ../templates/admin/forms_add_new.php:78 ../templates/admin/forms_edit.php:83
+msgid "Popup Selector"
+msgstr "Popup Selector"
+
+#: ../templates/admin/forms_add_new.php:87 ../templates/admin/forms_edit.php:92
+msgid "Popup Show Days"
+msgstr "Popup Show Days"
+
+#: ../templates/admin/forms_add_new.php:69 ../templates/admin/forms_edit.php:74
+msgid "Popup Timeout"
+msgstr "Popup Timeout"
+
+#: ../templates/admin/forms_add_new.php:116
+#: ../templates/admin/forms_edit.php:123 ../templates/admin/forms_edit.php:143
+msgid "Remove"
+msgstr "Remove"
+
+#: ../templates/admin/forms_add_new.php:103
+#: ../templates/admin/forms_edit.php:110 ../templates/admin/forms_edit.php:132
+msgid "Rule"
+msgstr "Rule"
+
+#: ../src/Admin/Forms.php:124 ../src/Admin/Forms.php:214
+msgid "Rule field is required."
+msgstr "Rule field is required."
+
+#: ../templates/admin/settings.php:42
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ../src/RegisterScripts.php:185
+msgid "Security code is incorrect, please try again."
+msgstr "Security code is incorrect, please try again."
+
+#: ../src/RegisterScripts.php:188
+msgid "Select all..."
+msgstr "Select all..."
+
+#: ../src/Admin/FormWidget.php:66
+msgid "Select form:"
+msgstr "Select form:"
+
+#: ../src/Admin/FormWidget.php:69
+msgid "Select..."
+msgstr "Select..."
+
+#: ../src/RegisterScripts.php:190
+msgid "Selected"
+msgstr "Selected"
+
+#: ../src/Admin/Settings.php:30 ../templates/admin/settings.php:6
+msgid "Settings"
+msgstr "Settings"
+
+#: ../src/Admin/Settings.php:29
+msgid "Settings - INBOX"
+msgstr "Settings - INBOX"
+
+#: ../src/RegisterScripts.php:184
+msgid "This field cannot be left blank."
+msgstr "This field cannot be left blank."
+
+#: ../src/RegisterScripts.php:189
+msgid "Type to filter..."
+msgstr "Type to filter..."
+
+#: ../src/RegisterScripts.php:181
+msgid "Type to search"
+msgstr "Type to search"
+
+#: ../templates/admin/forms_edit.php:28
+#, php-format
+msgid ""
+"Use the shortcode %s to display this form inside a post, page or text widget."
+msgstr ""
+"Use the shortcode %s to display this form inside a post, page or text widget."
+
+#: ../templates/admin/forms_add_new.php:73 ../templates/admin/forms_edit.php:78
+msgid ""
+"Wait time before showing popup in milliseconds. For example, you can write "
+"5000 milliseconds for 5 seconds."
+msgstr ""
+"Wait time before showing popup in milliseconds. For example, you can write "
+"5000 milliseconds for 5 seconds."
+
+#: ../templates/admin/forms_add_new.php:126
+#: ../templates/admin/forms_edit.php:154
+msgid "You can add a rule if you want show popup on pages that match the rule."
+msgstr ""
+"You can add a rule if you want show popup on pages that match the rule."
+
+#: ../templates/admin/forms_add_new.php:91 ../templates/admin/forms_edit.php:96
+msgid "You can fill this if you want show popup once a every specified days."
+msgstr "You can fill this if you want show popup once a every specified days."
+
+#: ../templates/admin/forms_add_new.php:82 ../templates/admin/forms_edit.php:87
+msgid ""
+"You can fill this if you want show popup when click to selector. Selector "
+"must be valid javascript dom selector."
+msgstr ""
+"You can fill this if you want show popup when click to selector. Selector "
+"must be valid javascript dom selector."

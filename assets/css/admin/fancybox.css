@@ -1,0 +1,19 @@
+#ib-add-split.fancybox-content,
+.ib-end-test-modal.fancybox-content,
+#ib-create-fb-custom-audience-modal.fancybox-content {
+    padding: 0;
+}
+
+#ib-optin-add-split .fancybox-button,
+#ib-create-fb-custom-audience-modal .fancybox-button {
+    color: #fff;
+}
+
+.inbox-admin .fancybox-slide--iframe .fancybox-content {
+    max-width: 800px !important;
+    width: 100%;
+}
+
+.inbox-admin .fancybox-toolbar {
+    top: 35px !important;
+}
